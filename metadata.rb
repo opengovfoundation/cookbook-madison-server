@@ -10,4 +10,4 @@ depends 'chef-client'
 depends 'git'
 depends 'opengov-users'
 depends 'lamp-server'
-
+depends 'composer'

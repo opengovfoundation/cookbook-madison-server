@@ -7,3 +7,4 @@
 
 include_recipe "madison-server::common_system"
 include_recipe "lamp-server::default"
+include_recipe "composer::default"
