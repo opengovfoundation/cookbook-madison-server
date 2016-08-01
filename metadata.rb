@@ -8,6 +8,6 @@ version          '0.1.23'
 
 depends 'chef-client'
 depends 'git'
-depends 'opengov-users'
-depends 'lamp-server'
+depends 'opengov-users', '0.1.8'
+depends 'lamp-server', '0.1.19'
 depends 'composer'
