@@ -4,7 +4,7 @@ maintainer_email 'developers@opengovfoundation.org'
 license          'CC0'
 description      'Installs/Configures madison-server'
 long_description 'Installs/Configures madison-server'
-version          '0.1.23'
+version          '0.1.24'
 
 depends 'git'
 depends 'opengov-users', '0.1.8'
