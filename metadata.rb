@@ -8,5 +8,5 @@ version          '0.1.23'
 
 depends 'git'
 depends 'opengov-users', '0.1.8'
-depends 'lamp-server', '0.1.23'
+depends 'lamp-server', '0.1.24'
 depends 'composer'
